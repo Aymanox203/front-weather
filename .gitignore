@@ -24,7 +24,7 @@ vite.config.ts.timestamp-*
 
 #Svelte
 build
-
+package-lock.json
 
 # Logs
 logs
